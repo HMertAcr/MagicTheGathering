@@ -1,0 +1,3 @@
+C:/Users/hmaca/MagicTheGathering/cmake-build-debug/CMakeFiles/MagicTheGathering.dir
+C:/Users/hmaca/MagicTheGathering/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hmaca/MagicTheGathering/cmake-build-debug/CMakeFiles/rebuild_cache.dir
